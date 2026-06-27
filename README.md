@@ -14,8 +14,8 @@ Information Science Student | MERN Stack Developer | React & Node.js Enthusiast
 
 
 ## 🚀 Skills
-- **Language:** Java , python 
-- **Frontend:** React, JavaScript, Tailwind CSS, HTML, CSS  
+- **Language:** Java , python , javascript
+- **Frontend:** React, Tailwind CSS, HTML, CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Tools:** Git, VS Code, Postman  
